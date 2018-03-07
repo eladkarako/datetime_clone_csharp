@@ -1,0 +1,4 @@
+D:\Dropbox\המסמכים שלי\SharpDevelop Projects\datetime_clone\datetime_clone\bin\Release\datetime_clone.exe.config
+D:\Dropbox\המסמכים שלי\SharpDevelop Projects\datetime_clone\datetime_clone\bin\Release\datetime_clone.exe
+D:\Dropbox\המסמכים שלי\SharpDevelop Projects\datetime_clone\datetime_clone\obj\Release\ResolveAssemblyReference.cache
+D:\Dropbox\המסמכים שלי\SharpDevelop Projects\datetime_clone\datetime_clone\obj\Release\datetime_clone.exe
